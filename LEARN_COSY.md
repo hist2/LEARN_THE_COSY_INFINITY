@@ -28,5 +28,9 @@ OPENF 1 'test.txt' 'UNKNOWN' ;
 
 The status in FORTRAN is "NEW", "OLD" and "UNKNOWN". If you want to add information in the same file, do not close the file before the command of adding information.
 
+# REFERENCES
 
-
+1.  [An Introduction to Beam Physics.pdf](An Introduction to Beam Physics.pdf) 
+2.  [COSY INFINITY v8.1.pdf](COSY INFINITY v8.1.pdf) 
+3.  [COSY_INFINITY_version_81_programming_manual.pdf](COSY_INFINITY_version_81_programming_manual.pdf) 
+4.  [cosy.fox](cosy.fox) 
